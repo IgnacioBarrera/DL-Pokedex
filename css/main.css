@@ -1,0 +1,36 @@
+body {
+    margin: o auto;
+    box-sizing: border-box;
+}
+#buscador-boton {
+    font-size: 1rem;
+    background-color: green;
+    color: gold;
+    border: transparent;
+}
+.table {
+    text-align: center;
+    border: 1px solid #dee2e6;
+}
+.grafico {
+    margin-top: 2rem;
+}
+.formulario {
+    background-image: url('../img/EP674_Ciudad_Esmalte_\(Anime\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo {
+    color: chocolate;
+    font-style: oblique;
+}
+.subtitulo {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+.consulta {
+    color: indigo;
+    font-style: italic;
+    font-weight: bold;
+}
